@@ -4,3 +4,4 @@ node_modules/
 .gradle
 build/
 .idea/
+.DS_Store
